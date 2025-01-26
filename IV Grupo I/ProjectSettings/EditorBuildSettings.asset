@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InerfazInicio.unity
+    guid: 8e33bb36cd405384591a198c40f81d59
+  - enabled: 1
+    path: Assets/Scenes/Juego.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/You_Died.unity
+    guid: a6357c15bcca06343b50468f68fa01bd
+  - enabled: 1
+    path: Assets/Scenes/You_Win.unity
+    guid: 242bc4680b17cec4baa4935465d04e3c
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 6ad608f100dc46649b92c11f00690c6c
+  - enabled: 1
+    path: Assets/Scenes/Ayuda.unity
+    guid: 8beb39e9128461b47b12af3e0c164a3b
+  m_configObjects: {}
